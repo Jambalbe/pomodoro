@@ -30,28 +30,3 @@ To quit it, right click the tomato icon in your traysystem and press the quit bu
 </p>
 
 
-## Install/Usage
-This section gives an overview on how to use the program.
-
-### General
-1. Install
-
-    pip install pomodoro-gui
-
-2. Run
-
-    pomodoro
-
-### Executable (Windows only)
-1. Install pyinstaller
-
-    pip install pyinstaller
-
-2. Create executable file
-
-    pyinstaller pomodoro.spec
-
-This will create a "build" and a "dist" folder. The "dist" folder will contain a pomodoro folder where the executable is located. Now you're
-able to run the application by executing "pomodoro.exe"
-Alternatively install the application from the <a href=https://github.com/burakmartin/pomodoro/releases>releases</a> tab. The installer is created with InstallForge which just bundles up
-the folder created with pyinstaller and lets you choose an installation path. It also comes with an uninstaller.
