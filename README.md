@@ -54,7 +54,7 @@
 # Структурная схема приложения в ввиде простой блочной структурной схемы - диаграммы
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/burakmartin/pomodoro/main/screenshots/screenshot_1.png](https://github.com/Jambalbe/pomodoro/blob/main/image%20(2).png)">
+  <img src="https://github.com/Jambalbe/pomodoro/blob/main/image%20(2).png">
  </p>
 
 
